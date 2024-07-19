@@ -1,0 +1,17 @@
+*.code-workspace
+*.md 
+*.txt 
+*.treeignore
+*.gitignore
+.git
+.bat
+.ps1
+.yml
+.gitattributes
+.md
+conversations/
+output_iteration_0/
+custom_scripts/
+__pycache__
+.pyc
+docs/

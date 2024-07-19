@@ -7,3 +7,6 @@ conversations/
 *.log
 __pycache__/
 *.pyc
+custom_scripts/
+output_iteration_0/
+
