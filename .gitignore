@@ -2,3 +2,8 @@
 conversations.json
 output/
 docs/
+conversations/
+*.txt
+*.log
+__pycache__/
+*.pyc
